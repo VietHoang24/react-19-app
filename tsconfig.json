@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",        // với React 17+ (hoặc "react" nếu dùng version cũ)
+      "module": "ESNext",        // hoặc "ES6"
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "types": ["vitest", "jest", "jsdom"]
+    }
+  }
+  
